@@ -1,0 +1,4 @@
+structure,n,header_bytes,storage_bytes,structure_bytes,bytes_per_item,payload_bytes,total_bytes
+linked,10000,56,560000,560056,56.0056,280000,840056
+deque,10000,56,131128,131184,13.1184,280000,411184
+list,10000,85176,0,85176,8.5176,280000,365176

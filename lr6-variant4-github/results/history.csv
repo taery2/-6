@@ -1,0 +1,12 @@
+step,action,past,current,future
+0,старт,[],/home,[]
+1,назад,[],/home,[]
+2,открыть /catalog,[/home],/catalog,[]
+3,открыть /item,"[/home, /catalog]",/item,[]
+4,назад,[/home],/catalog,[/item]
+5,вперёд,"[/home, /catalog]",/item,[]
+6,назад,[/home],/catalog,[/item]
+7,открыть /cart,"[/home, /catalog]",/cart,[]
+8,вперёд,"[/home, /catalog]",/cart,[]
+9,назад,[/home],/catalog,[/cart]
+10,назад,[],/home,"[/cart, /catalog]"

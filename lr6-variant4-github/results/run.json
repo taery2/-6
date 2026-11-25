@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "system": "Linux",
+  "repeats": 15,
+  "sizes": [
+    2000,
+    4000,
+    8000
+  ],
+  "memory_n": 10000
+}
